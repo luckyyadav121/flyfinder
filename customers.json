@@ -1,0 +1,76 @@
+{
+    "customers": [
+        {
+            "fname": "dcsd",
+            "lname": "eger",
+            "age": "12",
+            "city": "asd",
+            "username": "nalin",
+            "password": "qwer"
+        },
+        {
+            "fname": "dsf",
+            "lname": "dfe",
+            "age": "rfgerg",
+            "city": "QWE",
+            "username": "QWE",
+            "password": "QWE"
+        },
+        {
+            "fname": "iokl",
+            "lname": "po",
+            "age": "poj",
+            "city": "ij",
+            "username": "oi",
+            "password": "po"
+        },
+        {
+            "fname": "Nalin",
+            "lname": "Kaushik",
+            "username": "nalinkaushik",
+            "password": "nalin"
+        },
+        {
+            "fname": "ww",
+            "lname": "w",
+            "username": "w",
+            "password": "w"
+        },
+        {
+            "fname": "sdfs",
+            "lname": "qqd",
+            "username": "qd",
+            "password": "q"
+        },
+        {
+            "fname": "lll",
+            "lname": "yyy",
+            "username": "lll",
+            "password": "yyy"
+        },
+        {
+            "fname": "you",
+            "lname": "me",
+            "username": "me",
+            "password": "we"
+        },
+        {
+            "fname": "l",
+            "lname": "l",
+            "username": "l",
+            "password": "l"
+        },
+        {
+            "fname": "yy",
+            "lname": "yy",
+            "username": "yy",
+            "password": "yy"
+        },
+        {
+            "fname": "l",
+            "lname": "l",
+            "username": "l",
+            "password": "l"
+        }
+    ]
+}
